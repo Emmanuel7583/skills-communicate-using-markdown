@@ -5,3 +5,7 @@
 $ git init
 Initialized empty Git repository in /Users/skills/projects/recipe-respository/.git/
 ~~~
+
+~~~ javascript
+var myVar ="hello, world!":
+~~~
